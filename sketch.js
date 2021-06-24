@@ -1,5 +1,3 @@
-//Create variables here
-
 var database ,dog,dog1,dog2
 var position
 var feed,add
