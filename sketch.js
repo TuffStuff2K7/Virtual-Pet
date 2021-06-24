@@ -9,8 +9,8 @@ var Lastfeed
 function preload()
 {
   //loading  images 
-  dogimg1 = loadImage("images/dogImg.png")
-  dogimg2 = loadImage("images/dogImg1.png")
+  dogimg1 = loadImage("Images/dogImg.png")
+  dogimg2 = loadImage("Images/dogImg1.png")
 	
 }
 
